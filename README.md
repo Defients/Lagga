@@ -56,24 +56,6 @@ Built with Tauri 2, React, and Canvas 2D. Designed for streamers, power users, a
 
 ---
 
-## Screenshots
-
-**Main Configuration Interface**
-
-![Lagga UI - Global Tab](assets/screenshot-global.png)
-
-**Trail Physics & Visual Controls**
-
-![Lagga UI - Trail Panel](assets/screenshot-trail.png)
-
-**Preset & Bundle Gallery**
-
-![Lagga UI - Presets](assets/screenshot-presets.png)
-
-*(Add your own high-quality screenshots to `assets/` for the best presentation.)*
-
----
-
 ## Installation
 
 ### Pre-built Releases (Recommended)
